@@ -1,17 +1,15 @@
 <div align="center">
-  <img src="./assets/Ava.png" height="250" />
+  <img src="./assets/Ava.png" height="200" />
 </div>
 
 <h1 align="center">👋 Hi! I'm VolRen</h1>
 
-###
-
-<h3 align="left">💻 About Me:</h3>
+<h3 align="left">💻 About Me</h3>
 
 <p align="left">
-I'm a passionate developer focused on <b>game development with Unity (C#)</b>, <b>Linux tinkering</b>, and <b>server management</b>.  
-I love customizing <b>desktop environments</b>, creating in <b>Photoshop</b>, and experimenting with new tech.  
-Also, I'm a fan of optimizing workflows and exploring new ways to make games and systems more efficient.
+I'm a passionate developer with a love for <b>game development (Unity & C#)</b>, <b>Linux tinkering</b>, and <b>server management</b>.<br>
+I enjoy <b>customizing desktop environments</b>, creating visuals in <b>Krita</b>, and experimenting with new tech 🚀.<br>
+Always looking to <b>optimize workflows</b> and find smarter ways to make games and systems more efficient ⚡.
 </p>
 
 ###
@@ -25,7 +23,7 @@ Also, I'm a fan of optimizing workflows and exploring new ways to make games and
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
+  <img src="./assets/krita.svg" height="50" alt="krita logo"  />
 </div>
 
 ###
