@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Ava.png" height="200" />
+  <img src="./assets/Ava.png" height="250" style="border-radius: 50%;" />
 </div>
 
 <h1 align="center">👋 Hi! I'm VolRen</h1>
