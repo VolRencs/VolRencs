@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Ava.png" height="250" style="border-radius: 50%;" />
+  <img src="./assets/Ava.png" height="250" style="border-radius: 100%;" />
 </div>
 
 <h1 align="center">👋 Hi! I'm VolRen</h1>
@@ -33,7 +33,7 @@ Also, I'm a fan of optimizing workflows and exploring new ways to make games and
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VolRencs&radius=16&theme=modern-lilac&area=true&order=5&custom_title=📈 My GitHub Activity" height="300" alt="activity graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VolRencs&radius=16&theme=modern-lilac&area=true&order=5&custom_title=%F0%9F%93%88%20My%20GitHub%20Activity" height="300" alt="activity graph"  />
 </div>
 
 ###
