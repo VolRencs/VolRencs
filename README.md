@@ -38,7 +38,7 @@ Always pushing to make games and systems faster, leaner, and stranger ⚡
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VolRencs&radius=16&theme=react-dark&area=true&custom_title=GitHub+Activity&hide_border=true" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=VolRencs&radius=16&theme=react-dark&area=true&custom_title=GitHub+Activity&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=VolRencs&theme=tokyo-night&radius=16&area=true&custom_title=GitHub%20Activity&hide_border=true)" />
 </div>
 
 ---
